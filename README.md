@@ -12,3 +12,8 @@ $ tree . --dirsfirst
 ├── LICENSE
 └── README.md
 ```
+
+#### License
+AGPL v3.0
+<br />
+Copyright (c) 2022 Nodaa Gaji
