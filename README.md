@@ -5,7 +5,10 @@
 ```bash
 $ tree . --dirsfirst
 .
-├── src		- scripts
-├── ui		- web user interface
+├── src
+│   ├── backend		- backend application
+│   │   └── utils	- scripts
+│   └── frontend	- frontend application
+├── LICENSE
 └── README.md
 ```
